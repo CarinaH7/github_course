@@ -6,3 +6,6 @@ Git Course
 Teste
 
 Saiba mais no udemy
+
+
+Este curso parece ser legal
